@@ -43,11 +43,13 @@ Libraries used :
 6 : seaborn  
 7 : matplotlib
 ## Project Architecture
-
+![image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/architecture.jpg?raw=true)
 ## Steps
-1 : Loading dependencies                                          2 : Loading the datasets
+1 : Loading dependencies                                          
+2 : Loading the datasets
 3 : Data Preprocessing
-4 : Tokenization and Stopwords removal and Padding                5 : Building the model
+4 : Tokenization and Stopwords removal and Padding                
+5 : Building the model
 6 : Training the model
 7 : Prediction and Evaluation
 
