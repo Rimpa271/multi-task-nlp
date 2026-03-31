@@ -69,5 +69,11 @@ Padding is done to make input sequences the same length within a batch to ensure
 ## Final Results
 
 The model is evaluated on the basis of Accuracy and it has achieved an accuracy of 98.78 on Emotion dataset and 99.58 on Hate dataset.
-The confusion matrix for Emotion dataset
+The confusion matrix for Emotion dataset.
+
+
 ![image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/cm%20for%20emotion.jpg?raw=true)
+
+
+The confusion matrix for Hate dataset
+![image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/cm%20for%20hate.jpg?raw=true)
