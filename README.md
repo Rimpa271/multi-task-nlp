@@ -45,6 +45,15 @@ Libraries used :
 ## Project Architecture
 ![image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/architecture.jpg?raw=true)
 
+Individual input layers are built for both the datasets.
+The shared layers are Embedding layer, LSTM layer, Global Average Pooling and Dropout layer.
+Individual output layers are also built for bothe the datasets.
+
+
+
+
+![image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/layer.jpg?raw=true)
+
 
 ## Steps
 1 : Loading dependencies - All the libraries that are used in this project is imported.  
