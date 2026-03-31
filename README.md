@@ -43,7 +43,7 @@ Libraries used :
 6 : seaborn  
 7 : matplotlib
 ## Project Architecture
-[image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/architecture.jpg?raw=true)
+![image alt](https://github.com/Rimpa271/multi-task-nlp/blob/main/architecture.jpg?raw=true)
 
 
 ## Steps
